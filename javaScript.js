@@ -1,3 +1,4 @@
+// comment
 function getComputerChoice() {
     let randomNumber = Math.random();
     if(randomNumber<=1/3){
