@@ -64,7 +64,7 @@ function playGame() {
             computerScore++;
         }
     }
-    console.log("final scores: rhuman:", humanScore, "computer:", computerScore);
+    console.log("final scores: human:", humanScore, "computer:", computerScore);
 }
 
 playGame();
